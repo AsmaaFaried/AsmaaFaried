@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **asmaafaried54@gmail.com**
 
-- 📄 See my CV [https://github.com/AsmaaFaried/AsmaaFaried/blob/316f2fd0c2de7263813beeaeb4bf6fcf764aed0e/Asmaa%20Faried.pdf](https://github.com/AsmaaFaried/AsmaaFaried/blob/316f2fd0c2de7263813beeaeb4bf6fcf764aed0e/Asmaa%20Faried.pdf)
+- 📄 See my CV [https://github.com/AsmaaFaried/AsmaaFaried/blob/main/Asmaa%20Faried.pdf]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
