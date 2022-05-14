@@ -7,10 +7,12 @@
 
 - 📫 How to reach me **asmaafaried54@gmail.com**
 
+- 📄 See my CV [https://github.com/AsmaaFaried/AsmaaFaried/blob/316f2fd0c2de7263813beeaeb4bf6fcf764aed0e/Asmaa%20Faried.pdf](https://github.com/AsmaaFaried/AsmaaFaried/blob/316f2fd0c2de7263813beeaeb4bf6fcf764aed0e/Asmaa%20Faried.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asmaa faried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa faried" height="30" width="40" /></a>
-<a href="https://fb.com/asmaa faried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmaa faried" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asmaa-faried/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asmaa-faried/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004942994965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004942994965" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
