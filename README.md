@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm asmaa faried</h1>
 <h3 align="center">A passionate full stack developer from Alexandria,Egypt</h3>
 
-- 🌱 I’m currently trainee in **the Information Technology Institute (ITI) at open source diploma,**
+- 🌱 I’m currently trainee in **the Information Technology Institute (ITI) at open source diploma.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AsmaaFaried](https://github.com/AsmaaFaried)
 
