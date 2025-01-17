@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm asmaa faried</h1>
-<h3 align="center">I am a junior full stack web developer seeking a position in web development where I can apply my knowledge and skills for continuous improvement.</h3>
+<h3 align="center">I am a software engineer with over 2 years of experience as a Django and Odoo developer. I have a
+strong track record of delivering robust solutions and enhancing system functionality and working on
+individual projects like (Whatsapp chatbot). In addition to my experience, I have successfully completed
+freelancing tasks, showcasing my ability to manage client relationships and meet diverse requirements</h3>
 
-- 🌱 I’m currently trainee in **the Information Technology Institute (ITI) at open source diploma,**
+- 🌱 I’m currently worked at **Xontel Company** as **Backend Developer with Django and Odoo**
+
+- 🌱 I have a diploma from **the Information Technology Institute (ITI) in field open source for 9 months**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AsmaaFaried](https://github.com/AsmaaFaried)
 
-- 📫 How to reach me **asmaafaried54@gmail.com**
+- 📫 How to reach me **asmaafaried54@gmail.com** 
 
 - 📄 See my CV [https://github.com/AsmaaFaried/AsmaaFaried/blob/main/Asmaa%20Faried.pdf](https://github.com/AsmaaFaried/AsmaaFaried/blob/main/Asmaa%20Faried.pdf)
 
