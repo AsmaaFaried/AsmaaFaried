@@ -12,7 +12,7 @@ freelancing tasks, showcasing my ability to manage client relationships and meet
 
 - 📫 How to reach me **asmaafaried54@gmail.com** 
 
-- 📄 See my CV [https://github.com/AsmaaFaried/AsmaaFaried/blob/main/Asmaa%20Faried.pdf](https://github.com/AsmaaFaried/AsmaaFaried/blob/main/Asmaa%20Faried.pdf)
+- 📄 See my CV [https://drive.google.com/drive/folders/1DFMutrkl0daydtehLIt6I8TUTWAtAs81?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
